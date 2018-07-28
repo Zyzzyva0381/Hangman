@@ -1,7 +1,0 @@
-Program by Zyzzyva038
-released under a "CC BY-NC-ND 3.0" license. 
-
-Guess one letter at a time. 
-If the picture is complete, you'll lose! 
-
-Click the help button again to hide the help menu. 
