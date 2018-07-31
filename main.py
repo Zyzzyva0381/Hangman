@@ -1,4 +1,4 @@
-# Kangaroo Parkour
+# Hangman
 # Copyright 2018 by Zhiheng Wang
 # All rights reserved. 
 
